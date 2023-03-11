@@ -1,0 +1,17 @@
+2023.03.11:
+* changed: .externals: externals update
+* changed: changelog.txt, README_EN.txt: moved from child branch
+
+2020.05.28:
+* fixed: missed conversion
+
+2020.05.26:
+* fixed: `print_node` function visibility fix
+
+2020.04.29:
+* fixed: an xml node self closed tag flag is taken into account when printing xml
+
+2020.04.27:
+* new: changelog file
+* new: readme file
+* new: initial patched sources fork at release 1.13.0 (2009.05.15) from https://sourceforge.net/projects/rapidxml (https://sourceforge.net/projects/rapidxml/files/rapidxml/rapidxml%201.13/rapidxml-1.13.zip/download )
